@@ -13,7 +13,7 @@ function App() {
   
 
   return (
-    <div className="bg-[#1A232E] h-full">
+    <div className="bg-[#1A232E] h-full overflow-hidden">
       <Nav />
       <Hero />
       <div className='relative'>
